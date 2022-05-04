@@ -1,0 +1,1412 @@
+{
+    "ethnicwear" : [
+
+        {
+            "id" : 1,
+            "title" : "Aakarsha Refined Sarees",
+            "price" : 492,
+            "d_price" : 442,
+            "rating" : 3.8,
+            "img" : "https://images.meesho.com/images/products/32025170/hfgty_512.jpg",
+            "size" : ["Free Size"],
+            "seller" : "KHODIYAR VELVET",
+            "details" : {
+
+                "fabric" : "Aura Silk",
+                "pattern" : "Woven Design"
+                
+            }
+
+        },
+        {
+            "id" : 2,
+            "title" : "J-Card Fancy Women Dupatta",
+            "price" : 194,
+            "d_price" : 165,
+            "rating" : 3.5,
+            "img" : "https://images.meesho.com/images/products/37975321/ekvcq_512.jpg",
+            "size" : ["Free Size"],
+            "seller" : "Glamcity",
+            "details" : {
+
+                "fabric" : "Polyester",
+                "pattern" : "Printed"
+               
+            }
+        },
+        {
+            "id" : 3,
+            "title" : "Abhisarika Sensational Sarees",
+            "price" : 535,
+            "d_price" : 485,
+            "rating" : 4.1,
+            "img" : "https://images.meesho.com/images/products/29416473/086xh_512.jpg",
+            "size" : ["Free Size"],
+            "seller" : "RUTA ENTERPRISE",
+            "details" : {
+
+                "fabric" : "Banarasi Silk",
+                "pattern" : "Woven Design"
+                
+            }
+
+        },
+        {
+            "id" : 4,
+            "title" : "Designer Banarasi Silk Saree For Womens",
+            "price" : 587,
+            "d_price" : 496,
+            "rating" : 3.7,
+            "img" : "https://images.meesho.com/images/products/51831230/uhxaq_512.jpg",
+            "size" : ["Free Size"],
+            "seller" : "Ethnic Saree",
+            "details" : {
+
+                "fabric" : "Banarasi Silk",
+                "pattern" : "Zari Woven"
+                
+            }
+
+        },
+        {
+            "id" : 5,
+            "title" : "Sizco Grey Radium Kurtis",
+            "price" : 520,
+            "d_price" : 470,
+            "rating" : 5.0,
+            "img" : "https://images.meesho.com/images/products/101635127/gy3tv_512.jpg",
+            "size" : ["M","L","XL","XXL"],
+            "seller" : "K FASHION SURAT",
+            "details" : {
+
+                "fabric" : "Cotton",
+                "pattern" : "Solid"
+                
+            }
+
+        },
+        {
+            "id" : 6,
+            "title" : "BANARASI ART SOFT SILK SAREE",
+            "price" : 535,
+            "d_price" : 485,
+            "rating" : 3.8,
+            "img" : "https://images.meesho.com/images/products/12724375/81ba9_512.jpg",
+            "size" : ["Free Size"],
+            "seller" : "K FASHION SURAT",
+            "details" : {
+
+                "fabric" : "Banarasi Silk",
+                "pattern" : "Woven Design"
+                
+            }
+
+        },
+        {
+            "id" : 7,
+            "title" : "DEETYA FASHION represent organza printed with mirror work kurti for women and girl || Daily use ,wedding and many function || Beautiful and rich design",
+            "price" : 819,
+            "d_price" : 769,
+            "rating" : 3.9,
+            "img" : "https://images.meesho.com/images/products/40038108/ptma1_512.jpg",
+            "size" : ["M","L","XL","XXL"],
+            "seller" : "DEETYA FASHION",
+            "details" : {
+
+                "fabric" : "Organza",
+                "pattern" : "Embroidered"
+                
+            }
+
+        },
+        {
+            "id" : 8,
+            "title" : "Stylish Cotton Dupatta",
+            "price" : 222,
+            "d_price" : 189,
+            "rating" : 3.3,
+            "img" : "https://images.meesho.com/images/products/3392748/1_512.jpg",
+            "size" : ["Free Size"],
+            "seller" : "K FASHION SURAT",
+            "details" : {
+
+                "fabric" : "Cotton",
+                "pattern" : "Kuchi Work"
+                
+            }
+
+        },
+        {
+            "id" : 9,
+            "title" : "Stylish Casual Women's Suits & Dress Material",
+            "price" : 683,
+            "d_price" : 633,
+            "rating" : 2.3,
+            "img" : "https://images.meesho.com/images/products/2213886/1_512.jpg",
+            "size" : ["Free Size","Un Stitched"],
+            "seller" : "ONLY 4 GR",
+            "details" : {
+
+                "fabric" : "Cotton + Nazneen",
+                "pattern" : "Woven Design"
+                
+            }
+
+        },
+        {
+            "id" : 10,
+            "title" : "Fashionable Women's Sarees",
+            "price" : 472,
+            "d_price" : 422,
+            "rating" : 4.0,
+            "img" : "https://images.meesho.com/images/products/6058960/ecfd9_512.jpg",
+            "size" : ["Free Size"],
+            "seller" : "HASTI FSN",
+            "details" : {
+
+                "fabric" : "Chiffon",
+                "pattern" : "printed"
+                
+            }
+
+        },
+        {
+            "id" : 11,
+            "title" : "Elegant Crepe Blend Faux Georgette Saree",
+            "price" : 301,
+            "d_price" : 256,
+            "rating" : 3.3,
+            "img" : "https://images.meesho.com/images/products/1391308/2_512.jpg",
+            "size" : ["Free Size"],
+            "seller" : "LAXMAN",
+            "details" : {
+
+                "fabric" : "Georgette",
+                "pattern" : "printed"
+                
+            }
+
+        },
+        {
+            "id" : 12,
+            "title" : "NEW DESIGNER LEHNGA CHOLI FEATRING PRINTED WORK IN HEAVY SOFT SILK",
+            "price" : 1079,
+            "d_price" : 1029,
+            "rating" : 2.1,
+            "img" : "https://images.meesho.com/images/products/9016033/01772_512.jpg",
+            "size" : ["Semi Stitched"],
+            "seller" : "VRA TRENDZ",
+            "details" : {
+
+                "fabric" : "Soft Silk",
+                "pattern" : "Mirror Work"
+                
+            }
+
+        },
+        {
+            "id" : 13,
+            "title" : "Alisha Graceful Sarees",
+            "price" : 476,
+            "d_price" : 426,
+            "rating" : 3.5,
+            "img" : "https://images.meesho.com/images/products/41077923/f3m5r_512.jpg",
+            "size" : ["Free Size"],
+            "seller" : "AKSHI SAREE",
+            "details" : {
+
+                "fabric" : "Silk",
+                "pattern" : "Applique"
+                
+            }
+
+        },
+        {
+            "id" : 14,
+            "title" : "Ravishing Soft Banarasi Silk Women's Saree",
+            "price" : 1692,
+            "d_price" : 1642,
+            "rating" : 2.4,
+            "img" : "https://images.meesho.com/images/products/3088918/1_512.jpg",
+            "size" : ["Free Size"],
+            "seller" : "Om Enterprise",
+            "details" : {
+
+                "fabric" : "Banarasi Silk",
+                "pattern" : "Applique"
+                
+            }
+
+        },
+        {
+            "id" : 15,
+            "title" : "Women's and Girl's Trending Designer Embellished Chiffon (2.20 M) and Embroidery Cotton COMBO Dupatta for Party/Daily/Casual Wear (2.25M)",
+            "price" : 382,
+            "d_price" : 332,
+            "rating" : 3.0,
+            "img" : "https://images.meesho.com/images/products/23286049/a0cdc_512.jpg",
+            "size" : ["Free Size"],
+            "seller" : "Attnico Store",
+            "details" : {
+
+                "fabric" : "Chiffon",
+                "pattern" : "Embellished"
+                
+            }
+
+        },
+        {
+            "id" : 16,
+            "title" : "Combo Super Satin Sare",
+            "price" : 784,
+            "d_price" : 734,
+            "rating" : 3.9,
+            "img" : "https://images.meesho.com/images/products/20387468/9987e_512.jpg",
+            "size" : ["Free Size"],
+            "seller" : "SD SHOPING",
+            "details" : {
+
+                "fabric" : "Satin Silk",
+                "pattern" : "Sequence"
+                
+            }
+
+        },
+        {
+            "id" : 17,
+            "title" : "Traditional Jaipuri Art Silk Bandhej Dupatta",
+            "price" : 276,
+            "d_price" : 235,
+            "rating" : 4.2,
+            "img" : "https://images.meesho.com/images/products/8463011/01ea2_512.jpg",
+            "size" : ["Free Size"],
+            "seller" : "Attnico Store",
+            "details" : {
+
+                "fabric" : "Art Silk",
+                "pattern" : "Self-Design"
+                
+            }
+
+        },
+        {
+            "id" : 18,
+            "title" : "Cotton Kurti",
+            "price" : 438,
+            "d_price" : 388,
+            "rating" : 4.0,
+            "img" : "https://images.meesho.com/images/products/34947069/m8frs_512.jpg",
+            "size" : ["M","L","XXL"],
+            "seller" : "BHAKTI APPARELS",
+            "details" : {
+
+                "fabric" : "Cotton",
+                "pattern" : "Printed"
+                
+            }
+
+        },
+        {
+            "id" : 19,
+            "title" : "ANARKALI KOTA CHEKS LONG GOWN KURTI",
+            "price" : 685,
+            "d_price" : 635,
+            "rating" : 3.9,
+            "img" : "https://images.meesho.com/images/products/102783281/1bxqd_512.jpg",
+            "size" : ["L","XL","XXL","XXXL"],
+            "seller" : "SD TEXTILE HUB",
+            "details" : {
+
+                "fabric" : "Banarasi Silk",
+                "pattern" : "Printed"
+                
+            }
+
+        },
+        {
+            "id" : 20,
+            "title" : "Delisha Attractive Pretty Jamdani Cotton Silk Women's",
+            "price" : 1274,
+            "d_price" : 1224,
+            "rating" : 3.2,
+            "img" : "https://images.meesho.com/images/products/2940332/1_512.jpg",
+            "size" : ["Free Size"],
+            "seller" : "RUPA MAJUMDER SAREES",
+            "details" : {
+
+                "fabric" : "Cotton Silk",
+                "pattern" : "Zari Woven"
+                
+            }
+
+        } ],
+
+    "westenware" :[
+
+            {
+                "id" : 1,
+                "title" : "edgy deal criss cross back a line cami dress sunflower print dress of women",
+                "price" : 345,
+                "d_price" : 292,
+                "rating" : 3.5,
+                "img" : "https://images.meesho.com/images/products/80752345/zsmmd_512.jpg",
+                "size" : ["XL"],
+                "seller" : "EDGY DEAL",
+                "details" : {
+    
+                    "fabric" : "Crepe",
+                    "pattern" : "Printed"
+                    
+                }
+    
+            },
+            {
+                "id" : 2,
+                "title" : "Darla Women's Floral Long Dress With Mask",
+                "price" : 308,
+                "d_price" : 250,
+                "rating" : 3.8,
+                "img" : "https://images.meesho.com/images/products/94709568/gin0r_512.jpg",
+                "size" : ["M","L","XL","XXL","XXXL"],
+                "seller" : "Darla",
+                "details" : {
+    
+                    "fabric" : "Crepe",
+                    "pattern" : "Printed"
+                    
+                }
+    
+            },
+            {
+                "id" : 3,
+                "title" : "Printed Navy Blue Ankle Length Rayon Dress",
+                "price" : 367,
+                "d_price" : 317,
+                "rating" : 3.8,
+                "img" : "https://images.meesho.com/images/products/3783753/1_512.jpg",
+                "size" : ["Free Size","XL","XXL"],
+                "seller" : "FashneAttire",
+                "details" : {
+    
+                    "fabric" : "Rayon",
+                    "pattern" : "Checked"
+                    
+                }
+    
+            },
+            {
+                "id" : 4,
+                "title" : "Printed Navy Blue Calf-Length Cotton Dress",
+                "price" : 348,
+                "d_price" : 298,
+                "rating" : 3.4,
+                "img" : "https://images.meesho.com/images/products/2550147/1_512.jpg",
+                "size" : ["34","36","38","40","42","44"],
+                "seller" : "MADANAM JEWELLERY DOT COM",
+                "details" : {
+    
+                    "fabric" : "Cotton",
+                    "pattern" : "Printed"
+                    
+                }
+    
+            },
+            {
+                "id" : 5,
+                "title" : "Printed Grey Maxi Cotton Dress",
+                "price" : 363,
+                "d_price" : 313,
+                "rating" : 3.6,
+                "img" : "https://images.meesho.com/images/products/4545291/1_512.jpg",
+                "size" : ["M","L","XL","XXL"],
+                "seller" : "MADANAM JEWELLERY DOT COM",
+                "details" : {
+    
+                    "fabric" : "Cotton",
+                    "pattern" : "Printed"
+                    
+                }
+    
+            },
+            {
+                "id" : 6,
+                "title" : "Shreenathji Enterprise Classy Partywear Women Dresses",
+                "price" : 485,
+                "d_price" : 411,
+                "rating" : 3.6,
+                "img" : "https://images.meesho.com/images/products/80758392/lhero_512.jpg",
+                "size" : ["XS","S","M","L","XL","XXL"],
+                "seller" : "Shreenathji-Enterprise",
+                "details" : {
+    
+                    "fabric" : "Georgette",
+                    "pattern" : "Printed"
+                    
+                }
+    
+            },
+            {
+                "id" : 7,
+                "title" : "Trendy Partywear Women Dresses",
+                "price" : 529,
+                "d_price" : 453,
+                "rating" : 3.4,
+                "img" : "https://images.meesho.com/images/products/81075512/mdixz_512.jpg",
+                "size" : ["XS","S","M","L","XL","XXL"],
+                "seller" : "BOTH OF KING",
+                "details" : {
+    
+                    "fabric" : "Georgette",
+                    "pattern" : "Printed"
+                    
+                }
+    
+            },
+            {
+                "id" : 8,
+                "title" : "Dresses",
+                "price" : 290,
+                "d_price" : 233,
+                "rating" : 4.0,
+                "img" : "https://images.meesho.com/images/products/72607718/mnc3o_512.jpg",
+                "size" : ["S","M","L","XL"],
+                "seller" : "YAMUNA ENTERPRISE",
+                "details" : {
+    
+                    "fabric" : "Rayon",
+                    "pattern" : "Embellished"
+                    
+                }
+    
+            },
+            {
+                "id" : 9,
+                "title" : "Vintage Pale Cerulean Blue Off-Shoulder Pleated Fit & Flare Dress",
+                "price" : 283,
+                "d_price" : 241,
+                "rating" : 3.9,
+                "img" : "https://images.meesho.com/images/products/85017445/s94ff_512.jpg",
+                "size" : ["XS","S","M","L"],
+                "seller" : "UNAVAILABLE",
+                "details" : {
+    
+                    "fabric" : "Polyester",
+                    "pattern" : "Solid"
+                    
+                }
+    
+            },
+            {
+                "id" : 10,
+                "title" : "Comfy Graceful Women Dresses",
+                "price" : 347,
+                "d_price" : 251,
+                "rating" : 3.1,
+                "img" : "https://images.meesho.com/images/products/85816433/iu8uu_512.jpg",
+                "size" : ["L"],
+                "seller" : "SRKAMAKSHI MULTI SERVICES PRIVATE LIMITED",
+                "details" : {
+    
+                    "fabric" : "Poly Crepe",
+                    "pattern" : "Printed"
+                    
+                }
+    
+            },
+            {
+                "id" : 11,
+                "title" : "Women's Printed Grey Crepe Dress",
+                "price" : 339,
+                "d_price" : 289,
+                "rating" : 4.1,
+                "img" : "https://images.meesho.com/images/products/6706811/2675b_512.jpgg",
+                "size" : ["S","M","L","XL","XXL"],
+                "seller" : "RDC Creation",
+                "details" : {
+    
+                    "fabric" : "Crepe",
+                    "pattern" : "Printed"
+                    
+                }
+    
+            },
+            {
+                "id" : 12,
+                "title" : "Classy Feminine Women Dresses",
+                "price" : 552,
+                "d_price" : 502,
+                "rating" : 4.0,
+                "img" : "https://images.meesho.com/images/products/77624970/6x5nb_512.jpg",
+                "size" : ["S","M","L","XL","XXL"],
+                "seller" : "WAGHAA",
+                "details" : {
+    
+                    "fabric" : "Rayon",
+                    "pattern" : "Solid"
+                    
+                }
+    
+            },
+            {
+                "id" : 13,
+                "title" : "Stylish Retro Women Dresses",
+                "price" : 224,
+                "d_price" : 178,
+                "rating" : 4.0,
+                "img" : "https://images.meesho.com/images/products/96349563/ytyp6_512.jpg",
+                "size" : ["S","M","L","XL","XXL"],
+                "seller" : "av fashion #",
+                "details" : {
+    
+                    "fabric" : "Poly Crepe",
+                    "pattern" : "Printed"
+                    
+                }
+    
+            },
+            {
+                "id" : 14,
+                "title" : "Pretty Sensational Women Dresses",
+                "price" : 495,
+                "d_price" : 445,
+                "rating" : 4.0,
+                "img" : "https://images.meesho.com/images/products/96349563/ytyp6_512.jpg",
+                "size" : ["S","M","L","XL","XXL"],
+                "seller" : "SAHIL MALHOTRA",
+                "details" : {
+    
+                    "fabric" : "Rayon",
+                    "pattern" : "Printed"
+                    
+                }
+    
+            },
+            {
+                "id" : 15,
+                "title" : "Trendy Partywear Women Dresses",
+                "price" : 435,
+                "d_price" : 385,
+                "rating" : 4.5,
+                "img" : "https://images.meesho.com/images/products/47784085/pzqfv_512.jpg",
+                "size" : ["S","M","L","XL"],
+                "seller" : "Pasha Creation",
+                "details" : {
+    
+                    "fabric" : "Crepe",
+                    "pattern" : "Solid"
+                    
+                }
+    
+            },
+            {
+                "id" : 16,
+                "title" : "TIGER MIDI Dresses",
+                "price" : 239,
+                "d_price" : 200,
+                "rating" : 3.7,
+                "img" : "https://images.meesho.com/images/products/61594368/suyji_512.jpg",
+                "size" : ["XS","S","M","L","XL"],
+                "seller" : "Ayyub ahmad",
+                "details" : {
+    
+                    "fabric" : "Crepe",
+                    "pattern" : "Printed"
+                    
+                }
+    
+            },
+            {
+                "id" : 17,
+                "title" : "Dresses",
+                "price" : 750,
+                "d_price" : 700,
+                "rating" : 4.1,
+                "img" : "https://images.meesho.com/images/products/92112428/j5ous_512.jpg",
+                "size" : ["S","M","L","XL","XXL"],
+                "seller" : "AKS Couture",
+                "details" : {
+    
+                    "fabric" : "Rayon Slub",
+                    "pattern" : "Printed"
+                    
+                }
+    
+            },
+            {
+                "id" : 18,
+                "title" : "Printed Multicolor Maxi Cotton Dress",
+                "price" : 363,
+                "d_price" : 313,
+                "rating" : 3.0,
+                "img" : "https://images.meesho.com/images/products/2548961/1_512.jpg",
+                "size" : ["Free Size","34","36","38","40","42","44"],
+                "seller" : "MADANAM JEWELLERY DOT COM",
+                "details" : {
+    
+                    "fabric" : "Cotton",
+                    "pattern" : "Printed"
+                    
+                }
+    
+            },
+            {
+                "id" : 19,
+                "title" : "Urbane Latest Women Dresses",
+                "price" : 358,
+                "d_price" : 308,
+                "rating" : 3.7,
+                "img" : "https://images.meesho.com/images/products/59435233/lbza9_512.jpg",
+                "size" : ["XS","S","M","L","XL"],
+                "seller" : "STYLISH KIDS",
+                "details" : {
+    
+                    "fabric" : "Crepe",
+                    "pattern" : "Printed"
+                    
+                }
+            },
+            {
+                "id" : 20,
+                "title" : "Classy Modern Women Dresses",
+                "price" : 500,
+                "d_price" : 450,
+                "rating" : 3.7,
+                "img" : "https://images.meesho.com/images/products/40001060/wmjb7_512.jpg",
+                "size" : ["S","M","L","XL"],
+                "seller" : "Vogue tantra",
+                "details" : {
+    
+                    "fabric" : "Cotton Blend",
+                    "pattern" : "Solid"
+                    
+                }
+    
+            }  ],
+
+    "jewellery" : [
+
+                {   
+                    "id" : 1,
+                    "title" : "Feminine Graceful Jewellery Sets",
+                    "price" : 164,
+                    "d_price" : 140,
+                    "rating" : 3.3,
+                    "img" : "https://images.meesho.com/images/products/22170903/3a9a6_512.jpg",
+                    "size" : ["Free Size"],
+                    "seller" : "PRINAL ARTFIR",
+                    "details" : {
+        
+                        "fabric" : "Alloy",
+                        "pattern" : "Pearls"
+                        
+                    }
+                
+                },
+                {   
+                    "id" : 2,
+                    "title" : "Twinkling Glittering Women Jewellery Set",
+                    "price" : 260,
+                    "d_price" : 221,
+                    "rating" : 3.3,
+                    "img" : "https://images.meesho.com/images/products/40323406/52pca_512.jpg",
+                    "size" : ["Free Size"],
+                    "seller" : "Orra Jewelleries",
+                    "details" : {
+        
+                        "fabric" : "Alloy",
+                        "pattern" : "Pearls"
+                        
+                    }
+                
+                },
+                {   
+                    "id" : 3,
+                    "title" : "Stylish Alloy Jewellery Set",
+                    "price" : 370,
+                    "d_price" : 320,
+                    "rating" : 3.3,
+                    "img" : "https://images.meesho.com/images/products/2548008/1_512.jpg",
+                    "size" : ["Free Size"],
+                    "seller" : "E-Pro Solution",
+                    "details" : {
+        
+                        "fabric" : "Alloy",
+                        "pattern" : "Embellished"
+                        
+                    }
+                
+                },
+                {   
+                    "id" : 4,
+                    "title" : "Twinkling Chic Jewellery Sets",
+                    "price" : 200,
+                    "d_price" : 170,
+                    "rating" : 3.4,
+                    "img" : "https://images.meesho.com/images/products/90824491/emc0j_512.jpg",
+                    "size" : ["Free Size"],
+                    "seller" : "Kailashm jewellers",
+                    "details" : {
+        
+                        "fabric" : "Brass",
+                        "pattern" : "Kundan"
+                        
+                    }
+                
+                },
+                {   
+                    "id" : 5,
+                    "title" : "WOMEN FASHION JEWELLERY SET",
+                    "price" : 255,
+                    "d_price" : 217,
+                    "rating" : 3.9,
+                    "img" : "https://images.meesho.com/images/products/74909239/lxfuy_512.jpg",
+                    "size" : ["Free Size"],
+                    "seller" : "M verity",
+                    "details" : {
+        
+                        "fabric" : "Alloy",
+                        "pattern" : "No Stone"
+                        
+                    }
+                
+                },
+                {   
+                    "id" : 6,
+                    "title" : "Combo of White & Red Pearl 2 Necklae Set",
+                    "price" : 236,
+                    "d_price" : 175,
+                    "rating" : 3.6,
+                    "img" : "https://images.meesho.com/images/products/78281273/c8xvs_512.jpg",
+                    "size" : ["Free Size"],
+                    "seller" : "Namah Creations",
+                    "details" : {
+        
+                        "fabric" : "Alloy",
+                        "pattern" : "Pearls"
+                        
+                    }
+                
+                },
+                {   
+                    "id" : 7,
+                    "title" : "Jewellery Set",
+                    "price" : 154,
+                    "d_price" : 115,
+                    "rating" : 3.8,
+                    "img" : "https://images.meesho.com/images/products/84192840/iv6ip_512.jpg",
+                    "size" : ["Free Size"],
+                    "seller" : "Aashish imitation",
+                    "details" : {
+        
+                        "fabric" : "Alloy",
+                        "pattern" : "Artificial Stones & Beads"
+                        
+                    }
+                
+                },
+                {   
+                    "id" : 8,
+                    "title" : "Shimmering Glittering Women Jewellery Set",
+                    "price" : 230,
+                    "d_price" : 196,
+                    "rating" : 2.4,
+                    "img" : "https://images.meesho.com/images/products/84192840/iv6ip_512.jpg",
+                    "size" : ["Free Size"],
+                    "seller" : "HDSM sarees",
+                    "details" : {
+        
+                        "fabric" : "Alloy",
+                        "pattern" : "Artificial Stones & Beads"
+                        
+                    }
+                
+                },
+                {   
+                    "id" : 9,
+                    "title" : "Feminine Glittering Jewellery Sets",
+                    "price" : 261,
+                    "d_price" : 222,
+                    "rating" : 3.2,
+                    "img" : "https://images.meesho.com/images/products/42589763/nnhag_512.jpg",
+                    "size" : ["Free Size"],
+                    "seller" : "FANCY KURTI 123",
+                    "details" : {
+        
+                        "fabric" : "Alloy",
+                        "pattern" : "Cubic Zirconia"
+                        
+                    }
+                
+                },
+                {   
+                    "id" : 10,
+                    "title" : "Elephat Ganesh ji Jewellery Set",
+                    "price" : 388,
+                    "d_price" : 315,
+                    "rating" : 3.5,
+                    "img" : "https://images.meesho.com/images/products/75576792/wj7tg_512.jpg",
+                    "size" : ["Free Size"],
+                    "seller" : "AGORA ART",
+                    "details" : {
+        
+                        "fabric" : "Brass",
+                        "pattern" : "Kundan"
+                        
+                    }
+                
+                },
+                {   
+                    "id" : 11,
+                    "title" : "neckless set",
+                    "price" : 240,
+                    "d_price" : 193,
+                    "rating" : 4.6,
+                    "img" : "https://images.meesho.com/images/products/81222032/m7acn_512.jpg",
+                    "size" : ["Free Size"],
+                    "seller" : "R.S. Groups",
+                    "details" : {
+        
+                        "fabric" : "Metal : Brass & Copper",
+                        "pattern" : "Cubic Zirconia/American Diamond"
+                        
+                    }
+                
+                },
+                {   
+                    "id" : 12,
+                    "title" : "Attractive German Silver Women's Jewellery Set",
+                    "price" : 490,
+                    "d_price" : 440,
+                    "rating" : 4.8,
+                    "img" : "https://images.meesho.com/images/products/3398723/1_512.jpg",
+                    "size" : ["Free Size"],
+                    "seller" : "AYKYA BOUTIQUE",
+                    "details" : {
+        
+                        "fabric" : "German Silver",
+                        "pattern" : "Embellished"
+                        
+                    }
+                
+                },
+                {   
+                    "id" : 13,
+                    "title" : "Trendy Alloy Women Jewellery Set",
+                    "price" : 374,
+                    "d_price" : 324,
+                    "rating" : 3.5,
+                    "img" : "https://images.meesho.com/images/products/15679954/40b4d_512.jpg",
+                    "size" : ["Free Size"],
+                    "seller" : "DHRUVISHA FASHION",
+                    "details" : {
+        
+                        "fabric" : "Alloy",
+                        "pattern" : "Artificial Stones"
+                        
+                    }
+                
+                },
+                {   
+                    "id" : 14,
+                    "title" : "Shimmering Charming Women Necklaces & Chains",
+                    "price" : 124,
+                    "d_price" : 101,
+                    "rating" : 3.6,
+                    "img" : "https://images.meesho.com/images/products/74797959/wnu6q_512.jpg",
+                    "size" : ["Free Size"],
+                    "seller" : "Kinjal Cutlery",
+                    "details" : {
+        
+                        "fabric" : "Alloy",
+                        "pattern" : "Ruby"
+                        
+                    }
+                
+                },
+                {   
+                    "id" : 15,
+                    "title" : "Jewellery Set",
+                    "price" : 154,
+                    "d_price" : 125,
+                    "rating" : 4.3,
+                    "img" : "https://images.meesho.com/images/products/83275154/j15nr_512.jpg",
+                    "size" : ["Free Size"],
+                    "seller" : "OM SAI CREATIVES",
+                    "details" : {
+        
+                        "fabric" : "Brass",
+                        "pattern" : "Cubic Zirconia/American Diamond"
+                        
+                    }
+                
+                },
+                {   
+                    "id" : 16,
+                    "title" : "jewellery set for girls & Women",
+                    "price" : 410,
+                    "d_price" : 360,
+                    "rating" : 4.7,
+                    "img" : "https://images.meesho.com/images/products/91078459/2svkd_512.jpg",
+                    "size" : ["Free Size"],
+                    "seller" : "Aafiya Enterprise",
+                    "details" : {
+        
+                        "fabric" : "Alloy",
+                        "pattern" : "Cubic Zirconia/American Diamond"
+                        
+                    }
+                
+                },
+                {   
+                    "id" : 17,
+                    "title" : "Twinkling Beautiful Jewellery Set",
+                    "price" : 198,
+                    "d_price" : 160,
+                    "rating" : 3.9,
+                    "img" : "https://images.meesho.com/images/products/79200438/4e1cm_512.jpg",
+                    "size" : ["Free Size"],
+                    "seller" : "PRAGATI DIAMOND TOOLS",
+                    "details" : {
+        
+                        "fabric" : "Alloy",
+                        "pattern" : "Cubic Zirconia/American Diamond"
+                        
+                    }
+                
+                },
+                {   
+                    "id" : 18,
+                    "title" : "Attractive Stylish Metal Alloy Women's Jewellery Set",
+                    "price" : 262,
+                    "d_price" : 223,
+                    "rating" : 3.9,
+                    "img" : "https://images.meesho.com/images/products/3634945/1_512.jpg",
+                    "size" : ["Free Size"],
+                    "seller" : "ADIVA LIFESTYLE",
+                    "details" : {
+        
+                        "fabric" : "Alloy",
+                        "pattern" : "Crystals"
+                        
+                    }
+                
+                },
+                {   
+                    "id" : 19,
+                    "title" : "Metal : Brass jewellery set",
+                    "price" : 195,
+                    "d_price" : 166,
+                    "rating" : 3.6,
+                    "img" : "https://images.meesho.com/images/products/80440397/oip8f_512.jpg",
+                    "size" : ["Free Size"],
+                    "seller" : "HENIXA CREATION",
+                    "details" : {
+        
+                        "fabric" : "Brass",
+                        "pattern" : "Cubic Zirconia/American Diamond"
+                        
+                    }
+                
+                },
+                {   
+                    "id" : 20,
+                    "title" : "Shimmering Graceful jewellery set",
+                    "price" : 247,
+                    "d_price" : 210,
+                    "rating" : 4.2,
+                    "img" : "https://images.meesho.com/images/products/83643778/unh3c_512.jpg",
+                    "size" : ["Free Size"],
+                    "seller" : "M S BANGLES ONLINE",
+                    "details" : {
+        
+                        "fabric" : "Brass",
+                        "pattern" : "Pearls"
+                        
+                    }
+                
+                }
+
+            ],
+
+    "men" : [
+                {   
+                    "id" : 1,
+                    "title" : "Man's Regular Slim Fitt Shirt",
+                    "price" : 480,
+                    "d_price" : 430,
+                    "rating" : 3.6,
+                    "img" : "https://images.meesho.com/images/products/12227762/874ff_512.jpg",
+                    "size" : ["M","L","XL"],
+                    "seller" : "S&H Enterprise",
+                    "details" : {
+        
+                        "fabric" : "Cotton",
+                        "pattern" : "Solid"
+                        
+                    }
+                
+                },
+                {   
+                    "id" : 2,
+                    "title" : "Stylish Polyester Men's T-Shirts (Pack of 2)",
+                    "price" : 315,
+                    "d_price" : 268,
+                    "rating" : 3.6,
+                    "img" : "https://images.meesho.com/images/products/1856001/1_512.jpg",
+                    "size" : ["M","L","XL","XXL"],
+                    "seller" : "Taj Enterprises",
+                    "details" : {
+        
+                        "fabric" : "Polyester",
+                        "pattern" : "Solid"
+                        
+                    }
+                
+                },
+                {   
+                    "id" : 3,
+                    "title" : "Pretty Elegant Men Tshirts",
+                    "price" : 372,
+                    "d_price" : 322,
+                    "rating" : 3.6,
+                    "img" : "https://images.meesho.com/images/products/41012942/8unf3_512.jpg",
+                    "size" : ["M","L","XL","XXL"],
+                    "seller" : "SUPER MARKETING",
+                    "details" : {
+        
+                        "fabric" : "Cotton",
+                        "pattern" : "Solid"
+                        
+                    }
+                
+                },
+                {   
+                    "id" : 4,
+                    "title" : "Stylish Cotton Solid Men's Hooded T-Shirt",
+                    "price" : 269,
+                    "d_price" : 229,
+                    "rating" : 3.5,
+                    "img" : "https://images.meesho.com/images/products/662120/1_512.jpg",
+                    "size" : ["M","L","XL"],
+                    "seller" : "Care garments",
+                    "details" : {
+        
+                        "fabric" : "Cotton",
+                        "pattern" : "Solid"
+                        
+                    }
+                
+                },
+                {   
+                    "id" : 5,
+                    "title" : "Smart Cotton Men Shirt",
+                    "price" : 426,
+                    "d_price" : 376,
+                    "rating" : 3.4,
+                    "img" : "https://images.meesho.com/images/products/347523/1_512.jpg",
+                    "size" : ["M","L"],
+                    "seller" : "AX Enterprises",
+                    "details" : {
+        
+                        "fabric" : "Cotton",
+                        "pattern" : "Solid"
+                        
+                    }
+                
+                },
+                {   
+                    "id" : 6,
+                    "title" : "Comfy Modern Men Active Tshirts",
+                    "price" : 761,
+                    "d_price" : 711,
+                    "rating" : 3.8,
+                    "img" : "https://images.meesho.com/images/products/30757385/760b4_512.jpg",
+                    "size" : ["M","L","XL","XXL"],
+                    "seller" : "BOWLERS JERSEY",
+                    "details" : {
+        
+                        "fabric" : "Polyester",
+                        "pattern" : "Solid"
+                        
+                    }
+                
+                },
+                {   
+                    "id" : 7,
+                    "title" : "Classic Men Hooded Tshirts",
+                    "price" : 272,
+                    "d_price" : 232,
+                    "rating" : 4.0,
+                    "img" : "https://images.meesho.com/images/products/3760782/1_512.jpg",
+                    "size" : ["M","L","XL","XXL"],
+                    "seller" : "Tap-in ",
+                    "details" : {
+        
+                        "fabric" : "Cotton Blend",
+                        "pattern" : "Solid"
+                        
+                    }
+                
+                },
+                {   
+                    "id" : 8,
+                    "title" : "Men's Casual Cotton Blend shirts Combo",
+                    "price" : 496,
+                    "d_price" : 446,
+                    "rating" : 3.6,
+                    "img" : "https://images.meesho.com/images/products/3217884/1_512.jpg",
+                    "size" : ["S","M","L","XL","XXL"],
+                    "seller" : "Concepts Infosystems SUP",
+                    "details" : {
+        
+                        "fabric" : "Cotton Blend",
+                        "pattern" : "Solid"
+                        
+                    }
+                
+                },
+                {   
+                    "id" : 9,
+                    "title" : "Classy Ravishing Men Tshirts",
+                    "price" : 263,
+                    "d_price" : 224,
+                    "rating" : 2.5,
+                    "img" : "https://images.meesho.com/images/products/15426473/0b58b_512.jpg",
+                    "size" : ["M","L","XL"],
+                    "seller" : "Atrangi Store",
+                    "details" : {
+        
+                        "fabric" : "Polycotton",
+                        "pattern" : "Solid"
+                        
+                    }
+                
+                },
+                {   
+                    "id" : 10,
+                    "title" : "Comfy Partywear Men Tshirts",
+                    "price" : 237,
+                    "d_price" : 202,
+                    "rating" : 3.6,
+                    "img" : "https://images.meesho.com/images/products/48811910/ofhpd_512.jpg",
+                    "size" : ["S","M","L","XL"],
+                    "seller" : "GUPTA AARI EMBROIDERY",
+                    "details" : {
+        
+                        "fabric" : "CottonBlend",
+                        "pattern" : "Colorblocked"
+                        
+                    }
+                
+                },
+                {   
+                    "id" : 11,
+                    "title" : "Trendy Cotton T-Shirt",
+                    "price" : 233,
+                    "d_price" : 199,
+                    "rating" : 3.3,
+                    "img" : "https://images.meesho.com/images/products/1373453/1_512.jpg",
+                    "size" : ["M","L","XL"],
+                    "seller" : "WEBBY",
+                    "details" : {
+        
+                        "fabric" : "Cotton",
+                        "pattern" : "Printed"
+                        
+                    }
+                
+                },
+                {   
+                    "id" : 12,
+                    "title" : "Stylish Glamorous Men Shirts",
+                    "price" : 233,
+                    "d_price" : 199,
+                    "rating" : 3.0,
+                    "img" : "https://images.meesho.com/images/products/24349859/13588_512.jpg",
+                    "size" : ["M","L","XL"],
+                    "seller" : "Radhey Radhey Textile",
+                    "details" : {
+        
+                        "fabric" : "Cotton",
+                        "pattern" : "Printed"
+                        
+                    }
+                
+                },
+                {   
+                    "id" : 13,
+                    "title" : "Cotton Printed Men's Shirt",
+                    "price" : 386,
+                    "d_price" : 336,
+                    "rating" : 3.3,
+                    "img" : "https://images.meesho.com/images/products/3062438/ssqc4_512.jpg",
+                    "size" : ["M"],
+                    "seller" : "A_D Peter",
+                    "details" : {
+        
+                        "fabric" : "Cotton",
+                        "pattern" : "Printed"
+                        
+                    }
+                
+                },
+                {   
+                    "id" : 14,
+                    "title" : "Trendy Graceful Men Tshirts",
+                    "price" : 285,
+                    "d_price" : 243,
+                    "rating" : 3.7,
+                    "img" : "https://images.meesho.com/images/products/42114667/nymfj_512.jpg",
+                    "size" : ["S","M","L","XL"],
+                    "seller" : "lucky enterprises SUP",
+                    "details" : {
+        
+                        "fabric" : "Cotton",
+                        "pattern" : "Solid"
+                        
+                    }
+                
+                },
+                {   
+                    "id" : 15,
+                    "title" : "New Stylish Double Pocket Shirts For Men",
+                    "price" : 480,
+                    "d_price" : 430,
+                    "rating" : 3.9,
+                    "img" : "https://images.meesho.com/images/products/16126023/2605c_512.jpg",
+                    "size" : ["M","L","XL"],
+                    "seller" : "S&H Enterprise",
+                    "details" : {
+        
+                        "fabric" : "Cotton",
+                        "pattern" : "Solid"
+                        
+                    }
+                
+                },
+                {   
+                    "id" : 16,
+                    "title" : "Urbane Retro Men Tshirts",
+                    "price" : 225,
+                    "d_price" : 169,
+                    "rating" : 3.7,
+                    "img" : "https://images.meesho.com/images/products/42958844/pejif_512.jpg",
+                    "size" : ["M","L","XL"],
+                    "seller" : "THE FASHION HUB",
+                    "details" : {
+        
+                        "fabric" : "Cotton Blend",
+                        "pattern" : "Solid"
+                        
+                    }
+                
+                },
+                {   
+                    "id" : 17,
+                    "title" : "Stylish Men's Tshirt",
+                    "price" : 227,
+                    "d_price" : 125,
+                    "rating" : 4.0,
+                    "img" : "https://images.meesho.com/images/products/5869394/fdb0c_512.jpg",
+                    "size" : ["S","M","L","XL"],
+                    "seller" : "Smartees",
+                    "details" : {
+        
+                        "fabric" : "Cotton",
+                        "pattern" : "Printed"
+                        
+                    }
+                
+                },
+                {   
+                    "id" : 18,
+                    "title" : "Men's Comfy Cotton Solid T-Shirt",
+                    "price" : 246,
+                    "d_price" : 210,
+                    "rating" : 3.2,
+                    "img" : "https://images.meesho.com/images/products/2560152/1_512.jpg",
+                    "size" : ["M","L","XL"],
+                    "seller" : "Airson Creation",
+                    "details" : {
+        
+                        "fabric" : "Cotton",
+                        "pattern" : "Solid"
+                        
+                    }
+                
+                },
+                {   
+                    "id" : 19,
+                    "title" : "URBAN Premium SLUB Cotton Casual Shirt For Men PACK",
+                    "price" : 726,
+                    "d_price" : 589,
+                    "rating" : 4.9,
+                    "img" : "https://images.meesho.com/images/products/68558207/zm9rk_512.jpg",
+                    "size" : ["M","L","XL"],
+                    "seller" : "VERONICA CLOSET",
+                    "details" : {
+        
+                        "fabric" : "Cotton",
+                        "pattern" : "Printed"
+                        
+                    }
+                
+                },
+                {   
+                    "id" : 20,
+                    "title" : "round neck mens printed tshirt",
+                    "price" : 185,
+                    "d_price" : 158,
+                    "rating" : 3.8,
+                    "img" : "https://images.meesho.com/images/products/68778039/srcwi_512.jpg",
+                    "size" : ["M","L","XL"],
+                    "seller" : "MR fashio",
+                    "details" : {
+        
+                        "fabric" : "Cotton",
+                        "pattern" : "Printed"
+                        
+                    }
+                
+                }
+
+            ],
+
+    "beauty" : [
+                
+                {   
+                    "id" : 1,
+                    "title" : "Face Packs",
+                    "price" : 157,
+                    "d_price" : 134,
+                    "rating" : 3.2,
+                    "img" : "https://images.meesho.com/images/products/40100291/dxiym_512.jpg",
+                    "size" : ["M","L","XL"],
+                    "seller" : "MR fashio",
+                    "details" : {
+        
+                        "fabric" : "Charcoal",
+                        "pattern" : "All Skin Types"
+                        
+                    }
+                
+                },
+                {   
+                    "id" : 2,
+                    "title" : "Face Packs",
+                    "price" : 157,
+                    "d_price" : 134,
+                    "rating" : 3.2,
+                    "img" : "https://images.meesho.com/images/products/68778039/srcwi_512.jpg",
+                    "size" : ["M","L","XL"],
+                    "seller" : "MR fashio",
+                    "details" : {
+        
+                        "fabric" : "Cream",
+                        "pattern" : "All Skin Types"
+                        
+                    }
+                
+                }
+            ]
+}
