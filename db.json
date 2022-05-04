@@ -1,4 +1,705 @@
 {
+    "HomePageImg" : [
+
+        {
+            "id" : 1,
+            "title" : "Faiza Beauty Cream (50 grams) PACK OF 2",
+            "price" : 363,
+            "d_price" : 313,
+            "rating" : 3.8,
+            "img" : "https://images.meesho.com/images/products/5379999/2_512.jpg",
+            "size" : ["Free Size"],
+            "seller" : "CLICK STORE",
+            "details" : {
+  
+                "fabric" : "Cream",
+                "pattern" : "All Skin"
+                
+            }
+  
+        },
+        {
+            "id" : 2,
+            "title" : "Stylish Partywear Men Nightsuits",
+            "price" : 492,
+            "d_price" : 582,
+            "rating" : 3.6,
+            "img" : "https://meesho.com/trendy-designer-men-nightsuits/p/t00yn",
+            "size" : ["30","32","34","36"],
+            "seller" : "Gel Ambe Fashion",
+            "details" : {
+  
+                "fabric" : "Polycotton",
+                "pattern" : "Printed"
+               
+            }
+        },
+        {
+            "id" : 3,
+            "title" : "Combo of 2 Jaipuri Bedsheet with 4 pillow covers",
+            "price" : 723,
+            "d_price" : 673,
+            "rating" : 3.8,
+            "img" : "https://images.meesho.com/images/products/10466169/a649e_512.jpg",
+            "size" : ["Free Size"],
+            "seller" : "Saba Collection",
+            "details" : {
+  
+                "fabric" : " Cotton",
+                "pattern" : "Floral"
+                
+            }
+  
+        },
+        {
+            "id" : 4,
+            "title" : "Elite Cotton Men's Sock (Pack Of 3)",
+            "price" : 175,
+            "d_price" : 146,
+            "rating" : 4.3,
+            "img" : "https://images.meesho.com/images/products/2981745/1_512.jpg",
+            "size" : ["Free Size"],
+            "seller" : "E Marketers",
+            "details" : {
+  
+                "fabric" : "Cotton",
+                "pattern" : "Argyle"
+                
+            }
+  
+        },
+        {
+            "id" : 5,
+            "title" : "Sweat Slim Belt Waist Hot Shaper Premium Series - 2.5 mm Thickness| Unisex, Slimming Belt, Tummy Trimmer",
+            "price" : 151,
+            "d_price" : 129,
+            "rating" : 3.5,
+            "img" : "https://images.meesho.com/images/products/88911946/zwg0e_512.jpg",
+            "size" : ["Free Size"],
+            "seller" : "AYURVEDIC STORE",
+            "details" : {
+  
+                "fabric" : "Polyster",
+                "pattern" : "Solid"
+                
+            }
+  
+        },
+        {
+            "id" : 6,
+            "title" : "Indo challenge Brightening Vitamin C Facial Serum Pack of 1",
+            "price" : 131,
+            "d_price" : 97,
+            "rating" : 3.7,
+            "img" : "https://images.meesho.com/images/products/48916036/hulbt_512.jpg",
+            "size" : ["Free Size"],
+            "seller" : "NIGHTFALL ENTER SUP",
+            "details" : {
+  
+                "fabric" : "Cream",
+                "pattern" : "All Skin"
+                
+            }
+  
+        },
+        {
+            "id" : 7,
+            "title" : "Trendy Cotton 90X100 Double Bedsheets",
+            "price" : 723,
+            "d_price" : 673,
+            "rating" : 4.1,
+            "img" : "https://images.meesho.com/images/products/5134720/1_512.jpg",
+            "size" : ["Free Size"],
+            "seller" : "Saba Collection",
+            "details" : {
+  
+                "fabric" : "Cotton",
+                "pattern" : "Floral"
+                
+            }
+  
+        },
+        {
+            "id" : 8,
+            "title" : "Stylish Cotton Dupatta",
+            "price" : 80,
+            "d_price" : 63,
+            "rating" : 4.1,
+            "img" : "https://images.meesho.com/images/products/55884899/0bbsx_512.jpg",
+            "size" : ["Free Size"],
+            "seller" : "Jai kalka Maa traders",
+            "details" : {
+  
+                "fabric" : "Abs Plastic",
+                "pattern" : "Square"
+                
+            }
+  
+        },
+        {
+            "id" : 9,
+            "title" : "Hyco disinfectant surface cleaner+floor cleaner 1ltr",
+            "price" : 517,
+            "d_price" : 467,
+            "rating" : 4.8,
+            "img" : "https://images.meesho.com/images/products/94855176/l1xx7_512.jpg",
+            "size" : ["Free Size"],
+            "seller" : "Alok Industries",
+            "details" : {
+  
+                "fabric" : "Cleaner",
+                "pattern" : " Liquid"
+                
+            }
+  
+        },
+        {
+            "id" : 10,
+            "title" : "Combo Pack of 2 Jaipuri Single Bedsheet with 2 pillow covers",
+            "price" : 517,
+            "d_price" : 467,
+            "rating" : 4.0,
+            "img" : "https://images.meesho.com/images/products/9589138/6db62_512.jpg",
+            "size" : ["Free Size"],
+            "seller" : "Saba Collection",
+            "details" : {
+  
+                "fabric" : "Cotton",
+                "pattern" : "printed"
+                
+            }
+  
+        },
+        {
+            "id" : 11,
+            "title" : "Elegant Crepe Blend Faux Georgette Saree",
+            "price" : 293,
+            "d_price" : 187,
+            "rating" : 4.6,
+            "img" : "https://images.meesho.com/images/products/101010180/pi7hf_512.jpg",
+            "size" : ["28","30","32","34","36"],
+            "seller" : "AVNEET FASHION",
+            "details" : {
+  
+                "fabric" : "Chambray",
+                "pattern" : "plane"
+                
+            }
+  
+        },
+        {
+            "id" : 12,
+            "title" : "ICON JET(MILITARY GREEN) HELMET",
+            "price" : 580,
+            "d_price" : 507,
+            "rating" : 4.2,
+            "img" : "https://images.meesho.com/images/products/55400822/s6dla_512.jpg",
+            "size" :["Free Size"],
+            "seller" : "NAMRATA AUTO PLAST",
+            "details" : {
+  
+                "fabric" : "Strong Pvc",
+                "pattern" : "Printed"
+                
+            }
+  
+        },
+        {
+            "id" : 13,
+            "title" : "Sensational Hair Accessories Products",
+            "price" : 203,
+            "d_price" : 173,
+            "rating" : 3.5,
+            "img" : "https://images.meesho.com/images/products/1971738/1_512.jpg",
+            "size" : ["Free Size"],
+            "seller" : "GINNI MARKETING",
+            "details" : {
+  
+                "fabric" : "Plastic",
+                "pattern" : "Simple"
+                
+            }
+  
+        },
+        {
+            "id" : 14,
+            "title" : "Fancy Women's Watches",
+            "price" : 218,
+            "d_price" : 186,
+            "rating" : 4.4,
+            "img" : "https://images.meesho.com/images/products/435913/1_512.jpg",
+            "size" : ["Free Size"],
+            "seller" : "Bond Street",
+            "details" : {
+  
+                "fabric" : "Metal",
+                "pattern" : "Stylish"
+                
+            }
+  
+        },
+        {
+            "id" : 15,
+            "title" : "Finger Cover Game Controller for PUBG Sweat Proof Non-Scratch Sensitive Touch Screen Gaming Finger Thumb Sleeve Gloves pack of 1",
+            "price" : 19,
+            "d_price" : 17,
+            "rating" : 3.0,
+            "img" : "https://images.meesho.com/images/products/57748852/zj8h5_512.jpg",
+            "size" : ["Free Size"],
+            "seller" : "ACCRUMA TRADES",
+            "details" : {
+  
+                "fabric" : "Elastic Support",
+                "pattern" : "Simple"
+                
+            }
+  
+        },
+        {
+            "id" : 16,
+            "title" : "Generox Horn For ALL BIKES AND CAR",
+            "price" : 307,
+            "d_price" : 249,
+            "rating" : 3.7,
+            "img" : "https://images.meesho.com/images/products/69534488/7jezt_512.jpg",
+            "size" : ["Free Size"],
+            "seller" : "Mukul Enterprises",
+            "details" : {
+  
+                "fabric" : "hrome Shell material",
+                "pattern" : "Sequence"
+                
+            }
+  
+        },
+        {
+            "id" : 17,
+            "title" : "Traditional Necklace Pendant Gold Plated Hand Meena 30inch Long and 18inch short Combo Of 3 Mangalsutra/Tanmaniya/nallapusalu/Black Beads For Women and Girls Brass, Alloy Mangalsutra",
+            "price" : 259,
+            "d_price" : 221,
+            "rating" : 4.3,
+            "img" : "https://images.meesho.com/images/products/92840994/b2rsp_512.jpg",
+            "size" : ["Free Size"],
+            "seller" : "ADITYA FASHION HUB",
+            "details" : {
+  
+                "fabric" : " Alloy",
+                "pattern" : "Self-Design"
+                
+            }
+  
+        },
+        {
+            "id" : 18,
+            "title" : "Yogdhara B11 Neckband Sports Bluetooth Bluetooth Headset (Blue, In the Ear)",
+            "price" : 287,
+            "d_price" : 244,
+            "rating" : 4.0,
+            "img" : "https://images.meesho.com/images/products/71784910/bijku_512.jpg",
+            "size" : ["Free Size"],
+            "seller" : "PULKIT ACCESSORIES",
+            "details" : {
+  
+                "fabric" : "fiber",
+                "pattern" : "Bluetooth"
+                
+            }
+  
+        },
+        {
+            "id" : 19,
+            "title" : "BEST QUALITY KIDS WATCH FOR UNISEX-buy 1 get 1 free (BOYS AND GIRLS)",
+            "price" : 206,
+            "d_price" : 170,
+            "rating" : 4.5,
+            "img" : "https://images.meesho.com/images/products/98059248/kwvfe_512.jpg",
+            "size" : ["Free Size"],
+            "seller" : "MAA WATCH",
+            "details" : {
+  
+                "fabric" : "Silicon",
+                "pattern" : "Digital"
+                
+            }
+  
+        },
+        {
+            "id" : 20,
+            "title" : "Shirt Fabric",
+            "price" : 360,
+            "d_price" : 292,
+            "rating" : 3.2,
+            "img" : "https://images.meesho.com/images/products/93489297/b7xxx_512.jpg",
+            "size" : ["2.25m"],
+            "seller" : "AVIRA FASHION MARKET",
+            "details" : {
+  
+                "fabric" : "Polycotton",
+                "pattern" : "Stylish"
+                
+            }
+  
+        }, 
+  
+    
+  
+            {
+                "id" : 21,
+                "title" : "RONISH Plain Blue 100% Water Resistant UV Protection Two Wheeler Cover Bajaj AS Pulsar 150",
+                "price" : 248,
+                "d_price" : 197,
+                "rating" : 3.8,
+                "img" : "https://images.meesho.com/images/products/46681425/3qfze_512.jpg",
+                "size" : ["Free Size"],
+                "seller" : "Jvg Automobiles",
+                "details" : {
+    
+                    "fabric" : "Jvg Automobiles",
+                    "pattern" : "Plane"
+                    
+                }
+    
+            },
+            {
+                "id" : 22,
+                "title" : "Smartees Mens Cotton Printed Tshirt",
+                "price" : 227,
+                "d_price" : 175,
+                "rating" : 3.7,
+                "img" : "https://images.meesho.com/images/products/47770631/j6vfm_512.jpg",
+                "size" : ["S","M","L","XL"],
+                "seller" : "Smartees",
+                "details" : {
+    
+                    "fabric" : "Cotton Blend",
+                    "pattern" : "Semi Printed"
+                    
+                }
+    
+            },
+            {
+                "id" : 23,
+                "title" : "round neck mens printed tshirt",
+                "price" : 185,
+                "d_price" : 158,
+                "rating" : 3.8,
+                "img" : "https://images.meesho.com/images/products/68778037/fj2ld_512.jpg",
+                "size" : ["M","L","XL"],
+                "seller" : "MR fashio",
+                "details" : {
+    
+                    "fabric" : "Cotton",
+                    "pattern" : "Printed"
+                    
+                }
+    
+            },
+            {
+                "id" : 24,
+                "title" : "Aakarsha Voguish Kurtis",
+                "price" : 427,
+                "d_price" : 377,
+                "rating" : 4.1,
+                "img" : "https://images.meesho.com/images/products/48868673/ijozq_512.jpg",
+                "size" : ["M","L","XL","XXL"],
+                "seller" : "satish",
+                "details" : {
+    
+                    "fabric" : " Rayon",
+                    "pattern" : "Printed"
+                    
+                }
+    
+            },
+            {
+                "id" : 25,
+                "title" : "Alluring Men Silver Stainless Steel Analog Watch",
+                "price" : 334,
+                "d_price" : 270,
+                "rating" : 4.8,
+                "img" : "https://images.meesho.com/images/products/45171134/pv4hm_512.jpg",
+                "size" : ["Free Size"],
+                "seller" : "BRAND WATCHES",
+                "details" : {
+    
+                    "fabric" : " Alloy",
+                    "pattern" : "Stylish"
+                    
+                }
+    
+            },
+            {
+                "id" : 26,
+                "title" : "REDMI 10 PRIME Cases & Covers",
+                "price" : 183,
+                "d_price" : 142,
+                "rating" : 3.6,
+                "img" : "https://images.meesho.com/images/products/70344238/ncke7_512.jpg",
+                "size" : ["Free Size"],
+                "seller" : "RGVEEN",
+                "details" : {
+    
+                    "fabric" : "Artifical Leather",
+                    "pattern" : "Black"
+                    
+                }
+    
+            },
+            {
+                "id" : 27,
+                "title" : "Professional Lotus Herbals Radiant Diamond Facial Kit",
+                "price" : 260,
+                "d_price" : 210,
+                "rating" : 3.9,
+                "img" : "https://images.meesho.com/images/products/45103138/e9asf_512.jpg",
+                "size" :["Free Size"],
+                "seller" : " MADHAV STORE",
+                "details" : {
+    
+                    "fabric" : "Nova",
+                    "pattern" : " Dry"
+                    
+                }
+    
+            },
+            {
+                "id" : 28,
+                "title" : "Pack of 2 Color Block Dry Fit Polyster Honey Comb Track Pants",
+                "price" : 527,
+                "d_price" : 419,
+                "rating" : 4.0,
+                "img" : "https://images.meesho.com/images/products/17884344/02285_512.jpg",
+                "size" : ["S","M","L","XL"],
+                "seller" : "CasaJoya",
+                "details" : {
+    
+                    "fabric" : "Polyester",
+                    "pattern" : "Stylish"
+                    
+                }
+    
+            },
+            {
+                "id" : 29,
+                "title" : "Pretty Glamorous Men Tshirts",
+                "price" : 214,
+                "d_price" : 263,
+                "rating" : 3.9,
+                "img" : "https://images.meesho.com/images/products/47388346/jdw0z_512.jpg",
+                "size" : ["XS","S","M","L"],
+                "seller" : ".VISHNU ENTERPRISES",
+                "details" : {
+    
+                    "fabric" : "Cotton Blend",
+                    "pattern" : " Striped"
+                    
+                }
+    
+            },
+            {
+                "id" : 30,
+                "title" : "Tripod 3110 Stand for Phone and Camera Adjustable Aluminium Alloy Tripod Stand Holder for Photo/Video Shoot",
+                "price" : 307,
+                "d_price" : 261,
+                "rating" : 3.8,
+                "img" : "https://images.meesho.com/images/products/55880247/rr4uz_512.jpg",
+                "size" : ["Free Size"],
+                "seller" : "BALAJI ACCESSORIES",
+                "details" : {
+    
+                    "fabric" : "Aluminium Alloy Tripod",
+                    "pattern" : "dvanced Point"
+                    
+                }
+    
+            },
+            {
+                "id" : 31,
+                "title" : "HIKE UP LATEST STYLISH SPORTS SHOE FOE MEN",
+                "price" : 302,
+                "d_price" : 257,
+                "rating" : 4.1,
+                "img" : "https://images.meesho.com/images/products/99760635/9zthf_512.jpg",
+                "size" : ["S","M","L","XL","XXL"],
+                "seller" : "Hike UP",
+                "details" : {
+    
+                    "fabric" : "Mesh",
+                    "pattern" : "Solid"
+                    
+                }
+    
+            },
+            {
+                "id" : 32,
+                "title" : "best MDR-XB450 Wired Extra Bass On-Ear Headphones with Tangle Free Cable, 3.5 mm Jack, Headset with Mic for Phone Calls",
+                "price" : 276,
+                "d_price" : 200,
+                "rating" : 4.0,
+                "img" : "https://images.meesho.com/images/products/25947588/47a66_512.jpg",
+                "size" : ["Free Size"],
+                "seller" : "unique trading",
+                "details" : {
+    
+                    "fabric" : "Matreial",
+                    "pattern" : "All Mobile Devices"
+                    
+                }
+    
+            },
+            {
+                "id" : 33,
+                "title" : "4]3 crazy lips+2 cc cream 9 to 5",
+                "price" : 149,
+                "d_price" : 120,
+                "rating" : 3.6,
+                "img" : "https://images.meesho.com/images/products/11878999/56f9e_512.jpg",
+                "size" : ["Free Size"],
+                "seller" : "Quality. enterprises",
+                "details" : {
+    
+                    "fabric" : "cream",
+                    "pattern" : "Lakme"
+                    
+                }
+    
+            },
+            {
+                "id" : 34,
+                "title" : "Techista 2-in-1 Rechargeable - Cycle Light (3 Modes) Cycle Light and Horn/Cycle Lights Rechargeable Waterproof (140 dB) Cycle Light with Horn Cycle LED Front Light",
+                "price" : 349,
+                "d_price" : 299,
+                "rating" : 4.0,
+                "img" : "https://images.meesho.com/images/products/63825752/afbfh_512.jpg",
+                "size" : ["Free Size"],
+                "seller" : "Gadget Deals",
+                "details" : {
+    
+                    "fabric" : "Material",
+                    "pattern" : "LED"
+                    
+                }
+    
+            },
+            {
+                "id" : 35,
+                "title" : "Karency Flip Cover Oppo A15s Leather Magnetic Flip Wallet Case Cover for Oppo A15s - Brown",
+                "price" : 181,
+                "d_price" : 140,
+                "rating" : 4.5,
+                "img" : "https://images.meesho.com/images/products/56452467/nkvvq_512.jpg",
+                "size" : ["Free Size"],
+                "seller" : "KARAN CASE COVER",
+                "details" : {
+    
+                    "fabric" : "Leather",
+                    "pattern" : "Comfort"
+                    
+                }
+    
+            },
+            {
+                "id" : 36,
+                "title" : "Unilord Shockproof Chrome Finish Transparent Flexible TPU Back Cover Case Compatible for One Plus 6t (Black)",
+                "price" : 239,
+                "d_price" : 200,
+                "rating" : 3.8,
+                "img" : "https://images.meesho.com/images/products/63624773/0nbh0_512.jpg",
+                "size" : ["XS","S","M","L","XL"],
+                "seller" : "unilord",
+                "details" : {
+    
+                    "fabric" : "Silicone",
+                    "pattern" : "New"
+                    
+                }
+    
+            },
+            {
+                "id" : 17,
+                "title" : "Dresses",
+                "price" : 750,
+                "d_price" : 700,
+                "rating" : 4.1,
+                "img" : "https://images.meesho.com/images/products/92112428/j5ous_512.jpg",
+                "size" : ["S","M","L","XL","XXL"],
+                "seller" : "AKS Couture",
+                "details" : {
+    
+                    "fabric" : "Rayon Slub",
+                    "pattern" : "Printed"
+                    
+                }
+    
+            },
+            {
+                "id" : 37,
+                "title" : "Feminine Graceful Jewellery Sets",
+                    "price" : 164,
+                    "d_price" : 140,
+                    "rating" : 3.3,
+                    "img" : "https://images.meesho.com/images/products/22170903/3a9a6_512.jpg",
+                    "size" : ["Free Size"],
+                    "seller" : "PRINAL ARTFIR",
+                    "details" : {
+        
+                        "fabric" : "Alloy",
+                        "pattern" : "Pearls"
+                    
+                }
+    
+            },
+            {
+                "id" : 38,
+                "title" : "Twinkling Chic Jewellery Sets",
+                    "price" : 200,
+                    "d_price" : 170,
+                    "rating" : 3.4,
+                    "img" : "https://images.meesho.com/images/products/90824491/emc0j_512.jpg",
+                    "size" : ["Free Size"],
+                    "seller" : "Kailashm jewellers",
+                    "details" : {
+        
+                        "fabric" : "Brass",
+                        "pattern" : "Kundan"
+                    
+                }
+            },
+            {
+                "id" : 39,
+                "title" : "Classic Sweat Belts",
+                "price" : 130,
+                "d_price" : 111,
+                "rating" : 3.7,
+                "img" : "https://images.meesho.com/images/products/43137208/kpfqr_512.jpg",
+                "size" : ["S","M","L","XL"],
+                "seller" : "AKP",
+                "details" : {
+    
+                    "fabric" : "80% Nylon, 20% Elastane",
+                    "pattern" : "Comfort"
+                    
+                }
+    
+            },
+            {   
+                "id" : 40,
+                "title" : "Feminine Graceful Jewellery Sets",
+                "price" : 164,
+                "d_price" : 140,
+                "rating" : 3.3,
+                "img" : "https://images.meesho.com/images/products/22170903/3a9a6_512.jpg",
+                "size" : ["Free Size"],
+                "seller" : "PRINAL ARTFIR",
+                "details" : {
+    
+                    "fabric" : "Alloy",
+                    "pattern" : "Pearls"
+                    
+                }
+            
+            }
+        ],
     "ethnicwear" : [
 
         {
