@@ -1,12 +1,12 @@
 {
-  "name": "fake-server",
+  "name": "meesho-api",
   "version": "1.0.0",
-  "description": "fake server with fake database",
+  "description": "Meesho E-commerce API",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
   },
-  "author": "Youssef Zidan",
+  "author": "Jaiprakash Gupta",
   "license": "ISC",
   "dependencies": {
     "json-server": "^0.16.3"
